@@ -24,3 +24,6 @@ com.xda.labs/.LabsLauncher
 eu.chainfire.supersu/.MainActivity-Material
 org.lineageos.recorder/.RecorderActivity
 org.telegram.messenger/org.telegram.ui.LaunchActivity
+com.facebook.katana/.LoginActivity
+com.dv.adm.pay/.Main
+

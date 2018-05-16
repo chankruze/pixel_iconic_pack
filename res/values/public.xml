@@ -9,6 +9,19 @@
     <public type="mipmap" name="ic_play_movies" id="0x7f020006" />
     <public type="mipmap" name="ic_play_newsstand" id="0x7f020007" />
     <public type="mipmap" name="ic_voice_search" id="0x7f020008" />
+	<public type="mipmap" name="ic_app_adm_pro" id="0x7f020009" />
+	<public type="mipmap" name="ic_app_facebook" id="0x7f020010" />
+	<public type="mipmap" name="ic_app_telegram" id="0x7f020011" />
+	<public type="mipmap" name="ic_app_xda_labs" id="0x7f020012" />
+	<public type="mipmap" name="ic_system_contacts_samsung_new" id="0x7f020013" />
+	<public type="mipmap" name="ic_system_cyanogenmod_music" id="0x7f020014" />
+	<public type="mipmap" name="ic_system_cyanogenmod_snap_camera" id="0x7f020015" />
+	<public type="mipmap" name="ic_system_email_samsung_new" id="0x7f020016" />
+	<public type="mipmap" name="ic_system_file_manager_samsung" id="0x7f020017" />
+	<public type="mipmap" name="ic_system_gallery_samsung_new" id="0x7f020018" />
+	<public type="mipmap" name="ic_system_phone_samsung_new" id="0x7f020019" />
+	<public type="mipmap" name="ic_system_settings_samsung_new" id="0x7f020020" />
+	<public type="mipmap" name="ic_system_supersu" id="0x7f020021" />
     <public type="xml" name="icons" id="0x7f030000" />
     <public type="string" name="appName" id="0x7f040000" />
 </resources>
