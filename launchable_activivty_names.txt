@@ -1,0 +1,28 @@
+com.android.dialer/.DialtactsActivity
+com.android.documentsui/.LauncherActivity
+com.android.gallery3d/.app.GalleryActivity
+com.android.messaging/.ui.conversationlist.ConversationListActivity
+com.android.vending/.AssetBrowserActivity
+org.cyanogenmod.audiofx/.activity.ActivityMusic
+org.cyanogenmod.snap/com.android.camera.CameraLauncher
+com.android.chrome/com.google.android.apps.chrome.Main
+com.android.contacts/.activities.PeopleActivity
+No activity found
+No activity found
+No activity found
+com.android.settings/.Settings
+No activity found
+No activity found
+No activity found
+com.android.terminal/.TerminalActivity
+com.cyanogenmod.eleven/.ui.activities.HomeActivity
+com.discord/.app.AppActivity$Main
+com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActi
+vity
+com.nolanlawson.logcat/.LogcatActivity
+com.speedsoftware.rootexplorer/.RootExplorer
+com.xda.labs/.LabsLauncher
+eu.chainfire.supersu/.MainActivity-Material
+org.lineageos.recorder/.RecorderActivity
+org.telegram.messenger/org.telegram.ui.LaunchActivity
+Press any key to continue . . .
