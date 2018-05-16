@@ -17,12 +17,10 @@ No activity found
 com.android.terminal/.TerminalActivity
 com.cyanogenmod.eleven/.ui.activities.HomeActivity
 com.discord/.app.AppActivity$Main
-com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActi
-vity
+com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActivity
 com.nolanlawson.logcat/.LogcatActivity
 com.speedsoftware.rootexplorer/.RootExplorer
 com.xda.labs/.LabsLauncher
 eu.chainfire.supersu/.MainActivity-Material
 org.lineageos.recorder/.RecorderActivity
 org.telegram.messenger/org.telegram.ui.LaunchActivity
-Press any key to continue . . .
