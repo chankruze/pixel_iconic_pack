@@ -1,0 +1,147 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_45-internal (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: iEdJTzMsEFw/No7rJd9NQg60SSeVPPlDpLybEEKuNWE=
+
+Name: res/mipmap-hdpi-v4/ic_camera.png
+SHA-256-Digest: ArnI/XXvWJC6dNwX5hFG2/LMTS2EGxUQ8hNeNh+kp2U=
+
+Name: res/mipmap-hdpi-v4/ic_drive.png
+SHA-256-Digest: ztBi/E7Qn9h7kISjqsv8M2PesRdqdFZiVFgF+Ap2+NU=
+
+Name: res/mipmap-hdpi-v4/ic_gmail.png
+SHA-256-Digest: +7j5X+0zbrFkVTNrISHQNBVRSvQE3lUP40H9S6QtpZk=
+
+Name: res/mipmap-hdpi-v4/ic_google_search.png
+SHA-256-Digest: bKORdC64B8ueglzvqYqVj0nBj6YdKGZ5lP4PGIUM/AQ=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_home.png
+SHA-256-Digest: cegcWYsBZfDwdGecDfmoinkc9SPchmvlkDqY8CnsbKE=
+
+Name: res/mipmap-hdpi-v4/ic_play_games.png
+SHA-256-Digest: gTljEsOsBbo5moo5Wl2PyFQibWPwDTg9IpZ0IoeidRs=
+
+Name: res/mipmap-hdpi-v4/ic_play_movies.png
+SHA-256-Digest: VyY5/L9iCh4AGhRpQctEFTAAkHPCijmg2GL0LOj1puE=
+
+Name: res/mipmap-hdpi-v4/ic_play_newsstand.png
+SHA-256-Digest: cZHaOrTUUdoxs41fxD+hh0ZaKyoxFOcWaku/b0O5Wjo=
+
+Name: res/mipmap-hdpi-v4/ic_voice_search.png
+SHA-256-Digest: dH/Iq+qx/DPbsuDPxcrt5egvy49ojClBUivNGt/hS7s=
+
+Name: res/mipmap-mdpi-v4/ic_camera.png
+SHA-256-Digest: i7LGJm/NF/TLi2yo/N19dlhc4nUIzVpcE27yY2Q0ET4=
+
+Name: res/mipmap-mdpi-v4/ic_drive.png
+SHA-256-Digest: rCiDJotH2DMEV33hG8aPwMm0iALTwL/b6SmquF011Dg=
+
+Name: res/mipmap-mdpi-v4/ic_gmail.png
+SHA-256-Digest: tHGykOVozVDCjHzppqJOVkJezCcbWoR2ipZeVs0Hl9U=
+
+Name: res/mipmap-mdpi-v4/ic_google_search.png
+SHA-256-Digest: NP3ojUpezHJmqw8fEJAfcva7WaLD2sjYiJM+z7tZHi8=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_home.png
+SHA-256-Digest: iSi+UJ8Vw7m4A8RjvEAR+lBdVr/ZZxXDvTmnDp3EkSQ=
+
+Name: res/mipmap-mdpi-v4/ic_play_games.png
+SHA-256-Digest: hXsRQ3BIziMEImQQ7V78NSZyIgmZ7o7116LrN65/R1U=
+
+Name: res/mipmap-mdpi-v4/ic_play_movies.png
+SHA-256-Digest: M1fnHp5oXzl0oHb2F9Ut0tQi3xpYCQAFDQZTtsABN1M=
+
+Name: res/mipmap-mdpi-v4/ic_play_newsstand.png
+SHA-256-Digest: UpFZFMALrjFh4AthwNnn8a0Hv11i1PnaKGzY8rLpEQw=
+
+Name: res/mipmap-mdpi-v4/ic_voice_search.png
+SHA-256-Digest: 6DTNcelw28tufCDgh91rMsZcHwV1uaxFeHWut0D/sXU=
+
+Name: res/mipmap-xhdpi-v4/ic_camera.png
+SHA-256-Digest: 4r3pokFe+Xu4mF0yW5HmOnW7tIhevlLik5Gl5wGTRTY=
+
+Name: res/mipmap-xhdpi-v4/ic_drive.png
+SHA-256-Digest: GtecVGgtBnvjd6YtlXZZqnGC5tqzqkmVJVJXZy+4gOo=
+
+Name: res/mipmap-xhdpi-v4/ic_gmail.png
+SHA-256-Digest: Zuno5ulaQ+YpysDehfHP5jPKpYRyTlnDkkqPIwlKKsY=
+
+Name: res/mipmap-xhdpi-v4/ic_google_search.png
+SHA-256-Digest: rBtIaZ5fCOBefRxG07UX5z6uNSB14wiLSDJisv9KFkM=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_home.png
+SHA-256-Digest: jkwOIVX1uMhgaAqmjo0ozPZZy12qskVCdw9Y/6KAfms=
+
+Name: res/mipmap-xhdpi-v4/ic_play_games.png
+SHA-256-Digest: 8+VkKPKGvQ7ypJ4DPJEIRrTtWTZLtsZ6nqINMQc4TME=
+
+Name: res/mipmap-xhdpi-v4/ic_play_movies.png
+SHA-256-Digest: TWpCupk3wF8vy2HA3/yPX3YG6TXasHw9/QwFnCwqQOM=
+
+Name: res/mipmap-xhdpi-v4/ic_play_newsstand.png
+SHA-256-Digest: I2i0vkiE9Sfi8121qKcC81WB2Ho4PnJ6nR3W2N6dOHM=
+
+Name: res/mipmap-xhdpi-v4/ic_voice_search.png
+SHA-256-Digest: 7GrGKXO/+UbKSyqY6U+DH3Nc+EdUABESylomJ+Hdxgs=
+
+Name: res/mipmap-xxhdpi-v4/ic_camera.png
+SHA-256-Digest: enYjVTzrInq53dNxrupEw7AHUkoNbK/khjMIEWw7s+o=
+
+Name: res/mipmap-xxhdpi-v4/ic_drive.png
+SHA-256-Digest: 1qi+WDrx+6AP2K5SFLI4E93PezJbbP1+yuljlZH5sWo=
+
+Name: res/mipmap-xxhdpi-v4/ic_gmail.png
+SHA-256-Digest: 136HuBSocZMp05blcExE0VUmNIbjhN7upjAbXgP8Ksg=
+
+Name: res/mipmap-xxhdpi-v4/ic_google_search.png
+SHA-256-Digest: 9DY3XbXu5shz26bazkmKLQ+PRoT+0fMcH1QpPTgYuBc=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_home.png
+SHA-256-Digest: cTl2zgbKtH/jvVKAM3gA0JkUBg1v+lW8FYFhectpuD8=
+
+Name: res/mipmap-xxhdpi-v4/ic_play_games.png
+SHA-256-Digest: uvSlgvTWlE/2JKJCs1sgjvWmiTZAMB0HvMV+pWHFyzk=
+
+Name: res/mipmap-xxhdpi-v4/ic_play_movies.png
+SHA-256-Digest: Cy/m5r1CWXlvuZkyQBKrUXVS/siCspAroeVVXqC/Jj0=
+
+Name: res/mipmap-xxhdpi-v4/ic_play_newsstand.png
+SHA-256-Digest: WHFvTxpLWhE8ZTozrtuTy2zm3xJxOFRDK3wpYdWPKJQ=
+
+Name: res/mipmap-xxhdpi-v4/ic_voice_search.png
+SHA-256-Digest: wH2UWdEDioxB/cau2aD5NFgYmgLtUW5LEyGqYqh92Q8=
+
+Name: res/mipmap-xxxhdpi-v4/ic_camera.png
+SHA-256-Digest: 7eA9oyxi9Ewkj9QXOWp//FB1ef20XWQSavffYI9h9Fc=
+
+Name: res/mipmap-xxxhdpi-v4/ic_drive.png
+SHA-256-Digest: SJZMcpnj/qW8u7y2AsXsZoDPutBYlHXUCtK46WGfC84=
+
+Name: res/mipmap-xxxhdpi-v4/ic_gmail.png
+SHA-256-Digest: eP0BdJfQitS60VvaQTCh8KbkjIHa7JWlcsi1s9KdtDA=
+
+Name: res/mipmap-xxxhdpi-v4/ic_google_search.png
+SHA-256-Digest: HDqHNVEqtyiE8cFRfDY5JJ6b/7MS2VmbwGM/GC076+c=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_home.png
+SHA-256-Digest: BWa9NgJI6YP3vwVWKZzt9Sv+Bqs2qPMrzLUB9+0OJU4=
+
+Name: res/mipmap-xxxhdpi-v4/ic_play_games.png
+SHA-256-Digest: H0BA7OP1ufG4v+oxSxcSnUlQY91tx/0bZzYGRcb3DKI=
+
+Name: res/mipmap-xxxhdpi-v4/ic_play_movies.png
+SHA-256-Digest: wDB1CZVPnX8VNxTdUTzE/z8+dPW9n/VmhagIkw/ywxo=
+
+Name: res/mipmap-xxxhdpi-v4/ic_play_newsstand.png
+SHA-256-Digest: aCnH20iouAGYf7MXKEKCjufJ7tnnPdKTvaYy9w8htFQ=
+
+Name: res/mipmap-xxxhdpi-v4/ic_voice_search.png
+SHA-256-Digest: P262fkapaWVz4GyClg4+kVTOVisMu/7qIAZuJfB+y9Y=
+
+Name: res/xml/icons.xml
+SHA-256-Digest: 6Blcdb2sG0Du8BSXZec+PRC3LF6jqstXJDxkcuj2wU0=
+
+Name: resources.arsc
+SHA-256-Digest: XrRYlGg93F0GFG73ofrK4YF7IQkIxJWCWXoT7aSnyLw=
+
